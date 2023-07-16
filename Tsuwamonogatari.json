@@ -12,6 +12,30 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/D3Jxz6U"
       }
+    },
+    "6": {
+      "title": "Tsuwamonogatari Vol 6",
+      "volume": "6",
+      "last_updated": "1689530072",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/6XnF63C"
+      }
+    },
+    "7": {
+      "title": "Tsuwamonogatari Vol 7 ",
+      "volume": "7",
+      "last_updated": "1689530140",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/wvZdvFI"
+      }
+    },
+    "8": {
+      "title": "Tsuwamonogatari Vol 7 #2",
+      "volume": "7",
+      "last_updated": "1689530210",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/dMjnnsv"
+      }
     }
   }
 }
